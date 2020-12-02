@@ -1,0 +1,11 @@
+{
+    "map": "Invalid",
+    "lives": 3,
+    "speed": 2,
+    "frightenedLength": 7,
+    "modeLengths": [
+        7,
+        20
+    ]
+
+}
